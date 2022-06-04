@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "719953245583",
+    "project_id": "ladmu4tomalista",
+    "storage_bucket": "ladmu4tomalista.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719953245583:android:540c43292143449304c7fa",
+        "android_client_info": {
+          "package_name": "mx.tecnm.tepic.ladm_u4_appmaestro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719953245583-bmv1088urtjrc80q0onhi8gd78aonnc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0ZidflWROKEfk_hJJj8MzWXxljl08_R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719953245583-bmv1088urtjrc80q0onhi8gd78aonnc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
